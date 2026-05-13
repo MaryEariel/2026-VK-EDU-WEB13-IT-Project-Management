@@ -391,7 +391,7 @@
 
 ## 1. Уровень 1: Контекст системы (System Context)
 
-<img width="2182" height="545" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/d2db4435-b796-491c-a2c0-d70df88e208c" />
+<img width="899" height="344" alt="Схема" src="https://github.com/user-attachments/assets/e6d328e4-1761-484b-9ff1-06b5531ac272" />
 
 
 ---
